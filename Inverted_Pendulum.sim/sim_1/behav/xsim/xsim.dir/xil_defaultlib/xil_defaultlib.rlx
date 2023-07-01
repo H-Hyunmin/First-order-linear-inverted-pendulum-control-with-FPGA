@@ -1,0 +1,16 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/Huang Xianmin/Desktop/数字系统/xadc_release/Design sources/Verilog/Abs.v,1683972967,verilog,,C:/Users/Huang Xianmin/Desktop/数字系统/xadc_release/Design sources/Verilog/clk_division.v,,Abs,,,,,,,,
+C:/Users/Huang Xianmin/Desktop/数字系统/xadc_release/Design sources/Verilog/clk_division.v,1648131985,verilog,,C:/Users/Huang Xianmin/Desktop/数字系统/xadc_release/Design sources/Verilog/fsm_drp.v,,clk_division,,,,,,,,
+C:/Users/Huang Xianmin/Desktop/数字系统/xadc_release/Design sources/Verilog/fsm_drp.v,1656747808,verilog,,C:/Users/Huang Xianmin/Desktop/数字系统/xadc_release/Design sources/Verilog/hex_to_bcd.v,,fsm_drp,,,,,,,,
+C:/Users/Huang Xianmin/Desktop/数字系统/xadc_release/Design sources/Verilog/hex_to_bcd.v,1656089732,verilog,,C:/Users/Huang Xianmin/Desktop/数字系统/xadc_release/Design sources/Verilog/led.v,,hex_to_bcd,,,,,,,,
+C:/Users/Huang Xianmin/Desktop/数字系统/xadc_release/Design sources/Verilog/led.v,1648006642,verilog,,C:/Users/Huang Xianmin/Desktop/数字系统/xadc_release/Design sources/Verilog/seg_selection.v,,led,,,,,,,,
+C:/Users/Huang Xianmin/Desktop/数字系统/xadc_release/Design sources/Verilog/seg_selection.v,1648006674,verilog,,C:/Users/Huang Xianmin/Desktop/数字系统/xadc_release/Design sources/Verilog/switch_convert_16_to_42.v,,seg_selection,,,,,,,,
+C:/Users/Huang Xianmin/Desktop/数字系统/xadc_release/Design sources/Verilog/switch_convert_16_to_42.v,1656767818,verilog,,C:/Users/Huang Xianmin/Desktop/数字系统/xadc_release/Design sources/Verilog/top_module.v,,switch_convert_16_to_42,,,,,,,,
+C:/Users/Huang Xianmin/Desktop/数字系统/xadc_release/Design sources/Verilog/top_module.v,1683860531,verilog,,,,top_module,,,,,,,,
+D:/VIVADO/homwork3question2/XADC_test/XADC_test.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+D:/VIVADO/homwork3question2/XADC_test/XADC_test.srcs/sources_1/ip/Adder/sim/Adder.vhd,1683863399,vhdl,,,,adder,,,,,,,,
+D:/VIVADO/homwork3question2/XADC_test/XADC_test.srcs/sources_1/ip/Multiplier/sim/Multiplier.vhd,1683863541,vhdl,,,,multiplier,,,,,,,,
+D:/VIVADO/homwork3question2/XADC_test/XADC_test.srcs/sources_1/ip/xadc_wiz_0/xadc_wiz_0.v,1683892047,verilog,,C:/Users/Huang Xianmin/Desktop/数字系统/xadc_release/Design sources/Verilog/Abs.v,,xadc_wiz_0,,,,,,,,

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="rom_title_synth_1" LaunchPart="xc7a35tcsg324-1" LaunchTime="1686411342">
+  <File Type="PA-TCL" Name="rom_title.tcl"/>
+  <File Type="REPORTS-TCL" Name="rom_title_reports.tcl"/>
+  <File Type="RDS-RDS" Name="rom_title.vds"/>
+  <File Type="RDS-UTIL" Name="rom_title_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="rom_title_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="rom_title.dcp"/>
+  <FileSet Name="sources" Type="BlockSrcs" RelSrcDir="$PSRCDIR/rom_title">
+    <File Path="$PSRCDIR/rom_title/ip/rom_title/rom_title.xci">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Huang Xianmin/Documents/WeChat Files/wxid_p0o17fpz34pq11/FileStorage/File/2023-06/digitalBIGHW/digitalBIGHW/PID_VGA_2.0/PID_VGA_2.0.srcs/sources_1/ip/rom_title/rom_title.xci"/>
+        <Attr Name="ImportTime" Val="1686420319"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="rom_title"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="BlockSrcs" RelSrcDir="$PSRCDIR/rom_title">
+    <File Path="$PSRCDIR/rom_title/ip/rom_title/rom_title.xci">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Huang Xianmin/Documents/WeChat Files/wxid_p0o17fpz34pq11/FileStorage/File/2023-06/digitalBIGHW/digitalBIGHW/PID_VGA_2.0/PID_VGA_2.0.srcs/sources_1/ip/rom_title/rom_title.xci"/>
+        <Attr Name="ImportTime" Val="1686420319"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="rom_title"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2017"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>
